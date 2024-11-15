@@ -1,0 +1,15 @@
+{
+	"name": "Flare_Stack_Goa",
+	"version": "0.0.2",
+	"title": "Flare Stack for 2.0 With graphics fix and py fix",
+	"author": "GotLag",
+	"homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=21586",
+	"description": "Adds structures to dispose of unwanted items and fluids.",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"(?)deadlock_stacked_recipes",
+		"(?)DeadlockStackingForAngles",
+		"(?)DeadlockStackingForBobs",
+		"(?)DeadlockStackingForVanilla"
+	]
+}

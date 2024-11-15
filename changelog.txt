@@ -1,0 +1,74 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 28. 10. 2024
+  Changes:
+    - Fix for wrong reference to .png files
+---------------------------------------------------------------------------------------------------
+
+Version: 0.0.1
+Date: 28. 10. 2024
+  Changes:
+    - Initial Release
+---------------------------------------------------------------------------------------------------
+Version: 2.2.10
+Date: 04. 01. 2021
+  Changes:
+    - Flare stack and gas vent should now be unlocked appropriately when using Angel's Petrochem
+---------------------------------------------------------------------------------------------------
+Version: 2.2.9
+Date: 23. 12. 2020
+  Changes:
+    - Should now support incinerating Deadlock Stacked Recipes
+---------------------------------------------------------------------------------------------------
+Version: 2.2.8
+Date: 30. 11. 2020
+  Changes:
+    - Updated to Factorio 1.1
+---------------------------------------------------------------------------------------------------
+Version: 2.2.7
+Date: 25. 09. 2020
+  Bugfixes:
+    - Changed flaring and incineration recipe generation to avoid startup error
+    - Flare stacks, vents and incinerators produce pollution like they should
+---------------------------------------------------------------------------------------------------
+Version: 2.2.6
+Date: 30. 03. 2020
+  Changes:
+    - Added option to adjust item burn rate
+---------------------------------------------------------------------------------------------------
+Version: 2.2.5
+Date: 03. 02. 2020
+  Bugfixes:
+    - No longer replaces multi-layer icons with incineration recipe icon
+---------------------------------------------------------------------------------------------------
+Version: 2.2.4
+Date: 03. 02. 2020
+  Changes:
+    - Updated to Factorio 0.18
+---------------------------------------------------------------------------------------------------
+Version: 2.2.3
+Date: 10. 03. 2019
+  Bugfixes:
+    - Fixed electric incinerator and gas vent not being enabled if tech already researched
+---------------------------------------------------------------------------------------------------
+Version: 2.2.2
+Date: 08. 03. 2019
+  Changes:
+    - Changed gas vent and electric incinerator to unlock after researching suitable technologies
+    - Incinerators will not destroy fuel items (except wood), electric incinerators will destroy anything
+    - Incinerator power use decreased to 320 kW
+---------------------------------------------------------------------------------------------------
+Version: 2.2.1
+Date: 28. 02. 2019
+  Bugfixes:
+    - Fixed crash when creating incineration recipes for items with changed icon sizes
+---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: 27. 02. 2019
+  Changes:
+    - Updated to Factorio 0.17
+---------------------------------------------------------------------------------------------------
+Version: 2.1.7
+Date: 16. 02. 2018
+  Bugfixes:
+    - Updated to meet new prototype definition requirements added in Factorio 0.16.24
